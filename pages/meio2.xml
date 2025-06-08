@@ -18,11 +18,11 @@
 
   <agent
     id="interativo1"
-    text="Proximo"
+    text="Porta"
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="center"
+    x="220"
     on_click="goToPage('ending')"
   />
   <agent
@@ -31,16 +31,16 @@
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="center"
+    x="355"
     on_click="goToPage('ending')"
   />
   <agent
     id="interativo3"
-    text="Proximo"
+    text="Janela"
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="center"
+    x="515"
     on_click="goToPage('ending')"
   />
 </page>
