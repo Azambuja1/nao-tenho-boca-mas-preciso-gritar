@@ -1,7 +1,7 @@
 <page id="meio2" bg_color="black">
  <agent
     id="texto3"
-    text="Voltando sua atenção para"
+    text="Voltando sua atenção para o lugar em sí, você percebe que está dentro de uma pequena e escura cabana de madeira, com eletrodomésticos quebrados e caixas jogadas pelos cantos. Mais ao fundo, iluminada por uma única lâmpada presa no teto, uma bancada de madeira com, o que parecem ser, ferramentas de tortura ensanguentadas. Além disso, mais em frente, está uma porta de madeira com um grande cadeado e uma pequena janela."
     color="darkred"
     x="center"
     y="0"
@@ -9,10 +9,10 @@
   />
    <agent
     id="texto4"
-    text="Você se lembra da sua ida ao parque no final da tarde, apenas tentando se acalmar depois de um longo dia de trabalho, logo depois, essa mesma pessoa estava correndo, desesperada e ferida, de um homicida que a perseguia pela floresta, a sua machete reluzindo pela luz da lua com o sangue da sua presa."
+    text=""
     color="darkred"
     x="center"
-    y="220"
+    y="240"
     font-size="17"
   />
 
