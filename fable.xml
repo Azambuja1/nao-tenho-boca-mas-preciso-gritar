@@ -1,9 +1,5 @@
 <fable>
-  <config font-family="Schoolbell" />
-
-  <property name="pontuacao" default="0" />
-  <property name="vítima" default="aventureiro" />
-
+  <config font-family="" />
   <start />
   <middle />
   <ending />
