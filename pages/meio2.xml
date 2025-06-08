@@ -5,19 +5,37 @@
     color="darkred"
     x="center"
     y="0"
-    font-size="17"
+    font-size="15"
   />
    <agent
     id="texto4"
-    text=""
+    text="Ao olhar para sí mesmo, é notável que você está amarrado por uma corda a uma cadeira de madeira, com seus braços colados ao corpo, dificultando sua movimentação. Contudo, você percebe o detalhe que, talvez por descuido, a amarra que prende as suas pernas está frouxa, lhe permitindo a movimentação das pernas. Assim, você se levanta com dificuldade, precisando sustentar o peso do seu corpo e da cadeira sem nenhuma espécie de apoio, mas agora livre para se locomover pela cabana."
     color="darkred"
     x="center"
     y="240"
-    font-size="17"
+    font-size="15"
   />
 
   <agent
-    id="texto_de_proxima_pagina2"
+    id="interativo1"
+    text="Proximo"
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="center"
+    on_click="goToPage('ending')"
+  />
+  <agent
+    id="interativo2"
+    text="Bancada"
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="center"
+    on_click="goToPage('ending')"
+  />
+  <agent
+    id="interativo3"
     text="Proximo"
     color="darkred"
     animation="hover-glow"
