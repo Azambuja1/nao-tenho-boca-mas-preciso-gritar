@@ -1,3 +1,28 @@
 <page id="meio2" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página meio2" color="white" font-size="24" />
+ <agent
+    id="texto3"
+    text=""
+    color="darkred"
+    x="center"
+    y="0"
+    font-size="17"
+  />
+   <agent
+    id="texto4"
+    text="Você se lembra da sua ida ao parque no final da tarde, apenas tentando se acalmar depois de um longo dia de trabalho, logo depois, essa mesma pessoa estava correndo, desesperada e ferida, de um homicida que a perseguia pela floresta, a sua machete reluzindo pela luz da lua com o sangue da sua presa."
+    color="darkred"
+    x="center"
+    y="220"
+    font-size="17"
+  />
+
+  <agent
+    id="texto_de_proxima_pagina2"
+    text="Proximo"
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="center"
+    on_click="goToPage('ending')"
+  />
 </page>
