@@ -1,6 +1,6 @@
 <page id="start" bg_image="cemetery-noite-dark.png" bg_music="Hour_Of_Darkness.mp3">
   <agent
-    id="start"
+    id="titulo_1"
     text="Não tenho boca"
     color="darkred"
     x="center"
@@ -8,7 +8,7 @@
     font-size="35"
   />
    <agent
-    id="start"
+    id="titulo_2"
     text="mas preciso gritar"
     color="darkred"
     x="center"
@@ -17,7 +17,7 @@
   />
 
   <agent
-    id="next_page_text"
+    id="texto_de_proxima_pagina"
     text="Começar"
     color="red"
     animation="hover-glow"
