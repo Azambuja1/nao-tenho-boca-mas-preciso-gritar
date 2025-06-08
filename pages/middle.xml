@@ -7,13 +7,21 @@
     y="0"
     font-size="20"
   />
+   <agent
+    id="texto1"
+    text="Você acorda sentindo muita dor em todo seu corpo, principalmente em seu abdômen, que se encontra envolto em panos ensanguentados. Sua mente corre alucinada enquanto tenta entender o que aconteceu e onde você está."
+    color="darkred"
+    x="center"
+    y="0"
+    font-size="20"
+  />
 
   <agent
-    id="texto_de_proxima_pagina"
+    id="texto_de_proxima_pagina2"
     text="Proxima Pagina"
-    animation="glitch"
+    animation="hover-glow"
     y="480"
-    x="240"
+    x="center"
     on_click="goToPage('ending')"
   />
 </page>
