@@ -23,6 +23,6 @@
     animation="hover-glow"
     y="480"
     x="center"
-    on_click="goToPage('ending')"
+    on_click="goToPage('meio2')"
   />
 </page>
