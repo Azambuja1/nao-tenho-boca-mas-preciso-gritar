@@ -1,19 +1,19 @@
 <page id="middle" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
   <agent
     id="texto1"
-    text="Hello World Middle"
-    color="white"
+    text="Você acorda sentindo muita dor em todo seu corpo, principalmente em seu abdômen, que se encontra envolto em panos ensanguentados. Sua mente corre alucinada enquanto tenta entender o que aconteceu e onde você está."
+    color="darkred"
     x="center"
     y="0"
-    font-size="30"
+    font-size="20"
   />
 
   <agent
-    id="next_page_text"
+    id="texto_de_proxima_pagina"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
-    x="640"
+    x="240"
     on_click="goToPage('ending')"
   />
 </page>
