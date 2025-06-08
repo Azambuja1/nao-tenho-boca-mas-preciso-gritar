@@ -18,8 +18,8 @@
 
   <agent
     id="next_page_text"
-    text="Proxima Pagina"
-    animation="glitch"
+    text="Começar"
+    animation="hover-glow"
     y="480"
     x="640"
     on_click="goToPage('middle')"
