@@ -1,7 +1,7 @@
 <page id="bancada" bg_color="black">
  <agent
     id="texto7"
-    text="Ao se aproximar da bancada, o cheiro de sangue o atinge como um soco, fazendo seus olhos marejarem. Então, você se recompõe e analisa a bancada."
+    text="Ao se aproximar da bancada, o cheiro de sangue o atinge como um soco, fazendo seus olhos marejarem. Então, você se recompõe e analisa a bancada. Em cima dela é possível ver uma bagunça de ferramentas de tortura sujas de sangue, partes hummanas e embalagens de comida, provocando agora sua vontade de vomitar, você se afasta alguns passos da bancada."
     color="darkred"
     x="center"
     y="20"
@@ -9,7 +9,7 @@
   />
    <agent
     id="texto8"
-    text="Ao olhar para sí mesmo, é notável que você está amarrado por uma corda a uma cadeira de madeira, com seus braços rentes ao corpo, dificultando sua movimentação. Contudo, você percebe o detalhe que, talvez por descuido, a amarra que prende as suas pernas está frouxa, lhe permitindo a movimentação das pernas. Assim, você se levanta com dificuldade, precisando sustentar o peso do seu corpo e da cadeira sem nenhuma espécie de apoio, mas agora livre para se locomover pela cabana."
+    text="na parede logo atrás da bancada, você enxerga diversas ferramentas que normalmente seriam encontradas em uma cabana, como martelos, serrotes e chaves de fenda de diferentes tamanhos "
     color="darkred"
     x="center"
     y="230"
