@@ -1,3 +1,28 @@
-<page id="bancada" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página bancada" color="white" font-size="24" />
+<page id="bancada" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
+<agent
+    id="texto5"
+    text="Você se aproxima da janela. A sua visão é tomada pela chuva que rasga a noite com ferocidade, tornando difícil determinar exatamente onde você está, mas a silhuota das árvores balançando com o vento são inconfundíveis. Infelizmente, não é possível distinguir nada além disso."
+    color="darkred"
+    x="center"
+    y="15"
+    font-size="20"
+  />
+   <agent
+    id="texto6"
+    text="Com dificuldade, mesmo com as mãos presas ao seu corpo, Você tentar abrir a janela. Suas mão escorregam pelo vidro, tentando encontrar um ângulo para enfiar os dedos, no fim, você se afasta da janela, derrotado."
+    color="darkred"
+    x="center"
+    y="240"
+    font-size="20"
+  />
+
+  <agent
+    id="texto_de_proxima_pagina2"
+    text="Voltar"
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="center"
+    on_click="goToPage('meio2')"
+  />
 </page>
