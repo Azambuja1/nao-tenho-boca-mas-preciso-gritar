@@ -1,28 +1,46 @@
-<page id="bancada" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
-<agent
-    id="texto5"
-    text="Você se aproxima da janela. A sua visão é tomada pela chuva que rasga a noite com ferocidade, tornando difícil determinar exatamente onde você está, mas a silhuota das árvores balançando com o vento são inconfundíveis. Infelizmente, não é possível distinguir nada além disso."
+<page id="bancada" bg_color="black">
+ <agent
+    id="texto7"
+    text="você se aproximma "
     color="darkred"
     x="center"
-    y="15"
-    font-size="20"
+    y="20"
+    font-size="15"
   />
    <agent
-    id="texto6"
-    text="Com dificuldade, mesmo com as mãos presas ao seu corpo, Você tentar abrir a janela. Suas mão escorregam pelo vidro, tentando encontrar um ângulo para enfiar os dedos, no fim, você se afasta da janela, derrotado."
+    id="texto8"
+    text="Ao olhar para sí mesmo, é notável que você está amarrado por uma corda a uma cadeira de madeira, com seus braços rentes ao corpo, dificultando sua movimentação. Contudo, você percebe o detalhe que, talvez por descuido, a amarra que prende as suas pernas está frouxa, lhe permitindo a movimentação das pernas. Assim, você se levanta com dificuldade, precisando sustentar o peso do seu corpo e da cadeira sem nenhuma espécie de apoio, mas agora livre para se locomover pela cabana."
     color="darkred"
     x="center"
-    y="240"
-    font-size="20"
+    y="230"
+    font-size="15"
   />
 
   <agent
-    id="texto_de_proxima_pagina2"
-    text="Voltar"
+    id="interativo4"
+    text="Porta"
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="center"
-    on_click="goToPage('meio2')"
+    x="220"
+    on_click="goToPage('porta')"
+  />
+  <agent
+    id="interativo5"
+    text="Bancada"
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="355"
+    on_click="goToPage('bancada')"
+  />
+  <agent
+    id="interativo6"
+    text="Janela"
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="515"
+    on_click="goToPage('janela')"
   />
 </page>
