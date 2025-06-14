@@ -1,7 +1,7 @@
 <page id="porta" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
 <agent
     id="texto5"
-    text="A porta é feita de madeira, aparentemente muito velha. "
+    text="A porta é feita de madeira, aparentemente muito velha, contudo, o ferrolho da porta está preso à parede  por um cadeado de aço, tornando-a impossível de ser aberta sem uma chave, tendo em vista as suas limitações físicas atuais, agravadas pela fome e pela corda."
     color="darkred"
     x="center"
     y="15"
@@ -9,7 +9,7 @@
   />
    <agent
     id="texto6"
-    text="Com dificuldade, mesmo com as mãos presas ao seu corpo, Você tentar abrir a janela. Suas mão escorregam pelo vidro, tentando encontrar um ângulo para enfiar os dedos, no fim, você se afasta da janela, derrotado."
+    text="Você tem a ideia de acertar a cadeira que está nas suas costas na porta, testando sua resistência, mas foi uma tentativa inútil. Você caiu, a porta balançou levemente, e apenas isso. Pestanejando, você fica de pé novamente."
     color="darkred"
     x="center"
     y="240"
