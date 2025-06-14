@@ -23,7 +23,7 @@
     animation="hover-glow"
     y="480"
     x="220"
-    on_click="goToPage('ending')"
+    on_click="goToPage('porta')"
   />
   <agent
     id="interativo2"
@@ -32,7 +32,7 @@
     animation="hover-glow"
     y="480"
     x="355"
-    on_click="goToPage('ending')"
+    on_click="goToPage('bancada')"
   />
   <agent
     id="interativo3"
@@ -41,6 +41,6 @@
     animation="hover-glow"
     y="480"
     x="515"
-    on_click="goToPage('ending')"
+    on_click="goToPage('janela')"
   />
 </page>
