@@ -1,11 +1,11 @@
 <fable>
   <config font-family="Impact" />
   <property name = "escolha" default = "nada"/>
-  <start />
-  <middle />
-  <meio2 />
-  <janela />
+  <start/>
+  <middle/>
+  <meio2/>
+  <janela/>
   <porta/>
   <bancada/>
-  <ending />
+  <ending/>
 </fable>
