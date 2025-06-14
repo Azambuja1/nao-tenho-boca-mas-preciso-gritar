@@ -9,7 +9,7 @@
   />
    <agent
     id="texto6"
-    text="Você se lembra da sua ida ao parque no final da tarde, apenas tentando se acalmar depois de um longo dia de trabalho, logo depois, essa mesma pessoa estava correndo, desesperada e ferida, de um homicida que a perseguia pela floresta, a sua machete reluzindo pela luz da lua com o sangue da sua presa."
+    text="Com dificuldade, mesmo com as mãos presas ao seu corpo, Você tentar abrir a janela. Suas mão escorregam pelo vidro, tentando encontrar um ângulo para enfiar os dedos, no fim, você se afasta da janela, derrotado."
     color="darkred"
     x="center"
     y="240"
@@ -18,7 +18,7 @@
 
   <agent
     id="texto_de_proxima_pagina2"
-    text="Proximo"
+    text="Voltar"
     color="darkred"
     animation="hover-glow"
     y="480"
