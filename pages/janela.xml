@@ -1,3 +1,28 @@
-<page id="janela" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página janela" color="white" font-size="24" />
+<page id="janela" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
+<agent
+    id="texto5"
+    text="Você se aproxima da janela. A sua visão é tomada pela chuva que rasga a noite com ferocidade, tornando difícil determinar exatamente onde você está, mas a silhuota das árvores balançando com o vento são inconfundíveis. Infelizmente, não é possível distinguir nada além disso."
+    color="darkred"
+    x="center"
+    y="15"
+    font-size="20"
+  />
+   <agent
+    id="texto6"
+    text="Você se lembra da sua ida ao parque no final da tarde, apenas tentando se acalmar depois de um longo dia de trabalho, logo depois, essa mesma pessoa estava correndo, desesperada e ferida, de um homicida que a perseguia pela floresta, a sua machete reluzindo pela luz da lua com o sangue da sua presa."
+    color="darkred"
+    x="center"
+    y="240"
+    font-size="20"
+  />
+
+  <agent
+    id="texto_de_proxima_pagina2"
+    text="Proximo"
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="center"
+    on_click="goToPage('meio2')"
+  />
 </page>
