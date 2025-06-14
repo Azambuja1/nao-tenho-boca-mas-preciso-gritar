@@ -1,7 +1,7 @@
-<page id="janela" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
+<page id="porta" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
 <agent
     id="texto5"
-    text="Você se aproxima da janela. A sua visão é tomada pela chuva que rasga a noite com ferocidade, tornando difícil determinar exatamente onde você está, mas a silhuota das árvores balançando com o vento são inconfundíveis. Infelizmente, não é possível distinguir nada além disso."
+    text="A porta é feita de madeira, aparentemente muito velha. A"
     color="darkred"
     x="center"
     y="15"
