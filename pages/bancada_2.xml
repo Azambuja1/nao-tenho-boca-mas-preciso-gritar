@@ -18,20 +18,20 @@
 
   <agent
     id="texto_de_proxima_pagina10"
-    text="Voltar"
+    text="Machado"
     color="darkred"
     animation="hover-glow"
     y="480"
     x="center"
-    on_click="goToPage('meio2')"
+    on_click="goToPage('meio2_2')"
   />
     <agent
     id="texto_de_proxima_pagina11"
-    text="Proximo"
+    text="Martelo"
     color="darkred"
     animation="hover-glow"
     y="480"
     x="center"
-    on_click="goToPage('meio2')"
+    on_click="goToPage('meio2_2')"
   />
 </page>
