@@ -1,4 +1,4 @@
-<page id="bancada" bg_color="black">
+<page id="bancada" bg_color="black" bg_music="Hour_Of_Darkness.mp3" >
  <agent
     id="texto7"
     text="Ao se aproximar da bancada, o cheiro de sangue o atinge como um soco, fazendo seus olhos marejarem. Então, você se recompõe e analisa a bancada. Em cima dela é possível ver uma bagunça de ferramentas de tortura sujas de sangue, partes hummanas e embalagens de comida, provocando agora sua vontade de vomitar, você se afasta alguns passos da bancada."
