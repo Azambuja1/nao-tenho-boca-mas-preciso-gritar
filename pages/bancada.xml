@@ -18,20 +18,20 @@
 
   <agent
     id="interativo4"
-    text="Porta"
+    text="Voltar"
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="220"
-    on_click="goToPage('porta')"
+    x="270"
+    on_click="goToPage('meio2')"
   />
   <agent
     id="interativo5"
-    text="Bancada"
+    text="Tentar a serra"
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="355"
+    x="430"
     on_click="goToPage('bancada')"
   />
 </page>
