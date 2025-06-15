@@ -1,4 +1,4 @@
-<page id="meio2" bg_color="black">
+<page id="meio2" bg_color="black" bg_music="Hour_Of_Darkness.mp3">
  <agent
     id="texto3"
     text="Voltando sua atenção para o lugar em sí, você percebe que está dentro de uma pequena e escura cabana de madeira, com eletrodomésticos quebrados e caixas jogadas pelos cantos. Mais ao fundo, iluminada por uma única lâmpada presa no teto, uma bancada de madeira com, o que parecem ser, ferramentas de tortura ensanguentadas. Além disso, mais em frente, está uma porta de madeira com um grande cadeado e uma pequena janela."
