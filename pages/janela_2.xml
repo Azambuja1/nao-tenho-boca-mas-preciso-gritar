@@ -22,7 +22,7 @@
     animation="hover-glow"
     y="490"
     x="299"
-    on_click="goToPage('meio2')"
+    on_click="goToPage('meio2_2')"
   />
   <agent
     id="texto_de_proxima_pagina3"
@@ -31,6 +31,6 @@
     animation="hover-glow"
     y="490"
     x="440"
-    on_click="goToPage('meio2')"
+    on_click="goToPage('ending')"
   />
 </page>
