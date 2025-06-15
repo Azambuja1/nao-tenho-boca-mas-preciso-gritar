@@ -34,3 +34,4 @@
     x="355"
     on_click="goToPage('bancada')"
   />
+</page>
