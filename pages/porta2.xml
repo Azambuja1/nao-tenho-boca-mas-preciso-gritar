@@ -1,3 +1,37 @@
-<page id="porta2" bg_color="black">
-  <agent id="titulo" x="center" y="center" text="Página porta2" color="white" font-size="24" />
+<page id="porta_2" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
+<agent
+    id="texto5"
+    text="Você se aproxima da porta. Ela levemente com o vento forte que atinge ela, seu cadeado garantindo que a pessoa que esteja presa dentro da cabana continue presa. "
+    color="darkred"
+    x="center"
+    y="60"
+    font-size="20"
+  />
+   <agent
+    id="texto6"
+    text="Analisando o cadeado mais de perto, ele parece a única coisa desse lugar que não é extremamente velha, parecendo ter sido colocada recentemente"
+    color="darkred"
+    x="center"
+    y="240"
+    font-size="20"
+  />
+
+  <agent
+    id="texto_de_proxima_pagina2"
+    text="Voltar"
+    color="darkred"
+    animation="hover-glow"
+    y="500"
+    x="275"
+    on_click="goToPage('meio2_2')"
+  />
+    <agent
+    id="texto_de_proxima_pagina6"
+    text="quebrar"
+    color="darkred"
+    animation="hover-glow"
+    y="500"
+    x="425"
+    on_click="goToPage('ending')"
+  />
 </page>
