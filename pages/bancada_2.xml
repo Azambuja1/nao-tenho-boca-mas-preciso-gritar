@@ -9,15 +9,24 @@
   />
    <agent
     id="texto2"
-    text='com um "rasc", a última camada de corda rasga. A cadeir na  qual você estava preso cai no chão, fazendo um baque alto'
+    text='com um "rasc", a última camada de corda rasga. A cadeir na  qual você estava preso cai no chão, fazendo um baque alto. Agora que seus braços estão finalmente livres, você olha para o conteúdo da bancada novamente.'
     color="darkred"
     x="center"
-    y="220"
+    y="260"
     font-size="20"
   />
 
   <agent
-    id="texto_de_proxima_pagina2"
+    id="texto_de_proxima_pagina10"
+    text="Voltar"
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="center"
+    on_click="goToPage('meio2')"
+  />
+    <agent
+    id="texto_de_proxima_pagina11"
     text="Proximo"
     color="darkred"
     animation="hover-glow"
