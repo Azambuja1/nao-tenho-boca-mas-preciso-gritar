@@ -9,20 +9,28 @@
   />
    <agent
     id="texto6"
-    text="Analisando a janela em sí, ela obviamente está emperrada"
+    text="Agora, analisando a janela. Ela aparenta ser muito velha, com marcas de poeira e teias de aranha fazendo o seu contorno. Você testa abri-la, apenas para descobrir que está extremamente emperrada, então, seu $escolha reluz com a luz da lua."
     color="darkred"
     x="center"
     y="280"
     font-size="20"
   />
-
-  <agent
+ <agent
     id="texto_de_proxima_pagina2"
     text="Voltar"
     color="darkred"
     animation="hover-glow"
-    y="480"
-    x="center"
+    y="490"
+    x="299"
+    on_click="goToPage('meio2')"
+  />
+  <agent
+    id="texto_de_proxima_pagina3"
+    text="Quebrar"
+    color="darkred"
+    animation="hover-glow"
+    y="490"
+    x="440"
     on_click="goToPage('meio2')"
   />
 </page>
