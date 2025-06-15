@@ -1,15 +1,15 @@
 <page id="porta_2" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
 <agent
-    id="texto12"
-    text="Você se aproxima da janela. A sua visão é tomada novamente pela chuva que rasga a noite com ferocidade. Analisando melhor agora, você está no que parece ser uma pequena clareira, com cerca de 10 metros de raio. A chuva está mais fraca agora, sendo possível distinguir melhor o contorno das Árvores que o cercam"
+    id="texto5"
+    text="Você se aproxima da porta. Ela levemente com o vento forte que atinge ela, seu cadeado garantindo que a pessoa que esteja presa dentro da cabana continue presa. "
     color="darkred"
     x="center"
-    y="15"
+    y="60"
     font-size="20"
   />
    <agent
-    id="texto14"
-    text="Com dificuldade, mesmo com as mãos presas ao seu corpo, Você tentar abrir a janela. Suas mão escorregam pelo vidro, tentando encontrar um ângulo para enfiar os dedos, no fim, você se afasta da janela, derrotado."
+    id="texto6"
+    text="Analisando o cadeado mais de perto, ele parece a única coisa desse lugar que não é extremamente velha, parecendo ter sido colocada recentemente. Você sente seu $escolha "
     color="darkred"
     x="center"
     y="240"
@@ -21,8 +21,17 @@
     text="Voltar"
     color="darkred"
     animation="hover-glow"
-    y="480"
-    x="center"
-    on_click="goToPage('meio2')"
+    y="500"
+    x="275"
+    on_click="goToPage('meio2_2')"
+  />
+    <agent
+    id="texto_de_proxima_pagina6"
+    text="quebrar"
+    color="darkred"
+    animation="hover-glow"
+    y="500"
+    x="425"
+    on_click="goToPage('ending')"
   />
 </page>
