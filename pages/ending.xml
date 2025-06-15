@@ -1,19 +1,27 @@
-<page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
-  <agent
-    id="teste"
-    text="Hello World Ending"
-    color="white"
+<page id="ending" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
+<agent
+    id="texto5"
+    text="Você golpeia uma, duas vezes e então a janela se quebra em pedaços. Você limpa os cacos de vidro que estão no batente da janela e se prepara para pular. Ao acertar o chão, você sente as gotas de chuva atingindo o seu corpo e, ao olhar em volta, percebe que o assassino não está por perto."
+    color="darkred"
     x="center"
-    y="center"
-    font-size="70"
+    y="15"
+    font-size="19"
   />
-
-  <agent
-    id="next_page_text"
-    text="Primeira Pagina"
-    animation="glitch"
-    y="480"
-    x="640"
+   <agent
+    id="texto6"
+    text="Aproveitando a oportunidade, você começa a correr em direção à floresta, à procura de ajuda, de civilização. Os galhos das àrvores acertam o seu rosto com força, mas não há nada que fará você desistir. Ferido, perdido, cansado, desesperado, mas VIVO, ao menos, por enquanto."
+    color="darkred"
+    x="center"
+    y="280"
+    font-size="19"
+  />
+ <agent
+    id="texto_de_proxima_pagina2"
+    text="FIM"
+    color="darkred"
+    animation="hover-glow"
+    y="490"
+    x="center"
     on_click="goToPage('start')"
   />
 </page>
