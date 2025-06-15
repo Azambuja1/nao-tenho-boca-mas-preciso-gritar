@@ -1,7 +1,7 @@
 <page id="meio2_2" bg_color="black">
  <agent
     id="texto3"
-    text="Dessa vez, armado com seu $escolha, você analisa sua fuga. O assassino pode voltar à qualquer momento, então é preciso ser rápido, a janela parece ser a forma mais fácil de fugir, mas seria preciso quebrá-la e limpar os cacos para impedir que você se machuca mais do que está. Em contrapartida, a porta está selada por um cadeado, o seu $escolha parecce forte, mas voce não tem certeza se ele da conta do recado."
+    text="O seu corpo dói, fazem horas que você foi capturado por esse psicopata, a fome e os ferimentos que ele cansou estão ficando cada vez mais gritantes, atrapalhando os seus pensamentos, além do fato de que ELE pode voltar a qualquer momento, com mais uma presa para ele torturar, você tem que sair dese lugar, o seu destino não é morrer pelas mãos de um lunático."
     color="darkred"
     x="center"
     y="20"
@@ -9,38 +9,30 @@
   />
    <agent
     id="texto4"
-    text="O seu corpo dói, fazem horas que você foi capturado por esse psicopata, a fome e os ferimentos que ele cansou estão ficando cada vez mais gritantes, atrapalhando os seus pensamentos, além do fato de que ELE pode voltar a qualquer momento, com mais uma presa para ele torturar"
+    text="Armado com seu $escolha, você analisa sua fuga. O assassino pode voltar à qualquer momento, então é preciso ser rápido, a janela parece ser a forma mais fácil de fugir, mas seria preciso quebrá-la e limpar os cacos para impedir que você se machuca mais do que está. Em contrapartida, a porta está selada por um cadeado, o seu $escolha parecce forte, mas voce não tem certeza se ele da conta do recado."
     color="darkred"
     x="center"
     y="230"
     font-size="15"
   />
-
+  
   <agent
     id="interativo1"
     text="Porta"
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="220"
+    x="290"
     on_click="goToPage('porta')"
   />
-  <agent
-    id="interativo2"
-    text="Bancada"
-    color="darkred"
-    animation="hover-glow"
-    y="480"
-    x="355"
-    on_click="goToPage('bancada')"
-  />
+
   <agent
     id="interativo3"
     text="Janela"
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="515"
+    x="400"
     on_click="goToPage('janela')"
   />
 </page>
