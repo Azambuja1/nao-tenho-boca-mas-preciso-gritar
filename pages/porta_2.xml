@@ -32,6 +32,6 @@
     animation="hover-glow"
     y="470"
     x="425"
-    on_click="goToPage('ending')"
+    on_click="goToPage('ending2')"
   />
 </page>
