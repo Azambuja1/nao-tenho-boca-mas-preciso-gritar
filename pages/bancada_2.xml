@@ -1,4 +1,4 @@
-<page id="bancada_2" bg_image="fundo_preto.png">
+<page id="bancada_2" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3" >
   <agent
     id="texto1"
     text="Você puxa a facca para mais perto, e então começa a se esfregar na serra, tentando cortar a corda que envolve seu corpo. É muito difícil de manter a serra no lugar, ela escorrega corta a sua pele com frequência, lhe provocando uma dor agoniante. Porém, de pouco em pouco, a corda começa a ceder. "
