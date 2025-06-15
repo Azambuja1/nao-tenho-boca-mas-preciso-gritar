@@ -22,8 +22,8 @@
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="290"
-    on_click="goToPage('porta')"
+    x="280"
+    on_click="goToPage('porta_2')"
   />
 
   <agent
@@ -32,7 +32,7 @@
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="400"
-    on_click="goToPage('janela')"
+    x="450"
+    on_click="goToPage('janela_2')"
   />
 </page>
