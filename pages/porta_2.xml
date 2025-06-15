@@ -1,7 +1,7 @@
 <page id="porta_2" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
 <agent
     id="texto5"
-    text="Você se aproxima da porta. Ela levemente com o vento forte que atinge ela, seu cadeado garantindo que a pessoa que esteja presa dentro da cabana continue presa. "
+    text="Você se aproxima da porta. Ela levemente com o vento forte que atinge ela, seu cadeado garantindo que a pessoa que esteja dentro da cabana continue presa. "
     color="darkred"
     x="center"
     y="60"
@@ -9,7 +9,7 @@
   />
    <agent
     id="texto6"
-    text="Analisando o cadeado mais de perto, ele parece a única coisa desse lugar que não é extremamente velha, parecendo ter sido colocada recentemente. Você sente seu $escolha "
+    text="Analisando o cadeado mais de perto, ele parece a única coisa desse lugar que não é extremamente velha, parecendo ter sido colocada recentemente. O seu $escolha parece ressoar com o cadeado em um tom ameaçador."
     color="darkred"
     x="center"
     y="240"
@@ -21,7 +21,7 @@
     text="Voltar"
     color="darkred"
     animation="hover-glow"
-    y="500"
+    y="470"
     x="275"
     on_click="goToPage('meio2_2')"
   />
@@ -30,7 +30,7 @@
     text="quebrar"
     color="darkred"
     animation="hover-glow"
-    y="500"
+    y="470"
     x="425"
     on_click="goToPage('ending')"
   />
