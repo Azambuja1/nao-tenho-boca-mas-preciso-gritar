@@ -1,4 +1,4 @@
-<page id="porta" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
+<page id="porta" bg_image="fundo_preto.png">
 <agent
     id="texto5"
     text="A porta é feita de madeira, aparentemente muito velha, contudo, o ferrolho da porta está preso à parede  por um cadeado de aço, tornando-a impossível de ser aberta sem uma chave, tendo em vista as suas limitações físicas atuais, agravadas pela fome e pela corda."
