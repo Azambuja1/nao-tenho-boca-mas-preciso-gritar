@@ -1,7 +1,7 @@
 <page id="bancada_2" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
   <agent
     id="texto1"
-    text="Você acorda sentindo muita dor em todo seu corpo, principalmente em seu abdômen, que se encontra envolto em panos ensanguentados. Sua mente corre alucinada enquanto tenta entender o que aconteceu e onde você está."
+    text="Você puxa a facca para mais perto, e então começa a se esfregar na serra, tentando cortar a corda que envolve seu corpo. É muito difícil de manter a serra no lugar, ela escorrega corta a sua pele com frequência, lhe provocando uma dor agoniante. Porém, de pouco em pouco, a corda começa a ceder. "
     color="darkred"
     x="center"
     y="15"
@@ -9,7 +9,7 @@
   />
    <agent
     id="texto2"
-    text="Você se lembra da sua ida ao parque no final da tarde, apenas tentando se acalmar depois de um longo dia de trabalho, logo depois, essa mesma pessoa estava correndo, desesperada e ferida, de um homicida que a perseguia pela floresta, a sua machete reluzindo pela luz da lua com o sangue da sua presa."
+    text='com um "rasc", a última camada de corda rasga. A cadeir na  qual você estava preso cai no chão, fazendo um baque alto'
     color="darkred"
     x="center"
     y="220"
