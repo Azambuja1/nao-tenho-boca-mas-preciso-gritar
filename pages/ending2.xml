@@ -1,4 +1,4 @@
-<page id="ending2" bg_image="fundo_preto.png" bg_music="videoplayback.m4a">
+<page id="ending2" bg_image="fundo_preto.png">
 <agent
     id="texto5"
     text="Você golpeia uma, duas vezes e então a janela se quebra em pedaços. Você limpa os cacos de vidro que estão no batente da janela e se prepara para pular. Ao acertar o chão, você sente as gotas de chuva atingindo o seu corpo e, ao olhar em volta, percebe que o assassino não está por perto."
