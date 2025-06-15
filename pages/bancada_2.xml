@@ -23,7 +23,7 @@
     animation="hover-glow"
     y="480"
     x="220"
-    on_click="goToPage('meio2_2'); set(${escolha}, ${'machado'})"
+    on_click="goToPage('meio2_2'); set(escolha, 'machado')"
   />
     <agent
     id="texto_de_proxima_pagina11"
@@ -32,7 +32,7 @@
     animation="hover-glow"
     y="480"
     x="center"
-    on_click="goToPage('meio2_2'); set(${escolha}, ${'martelo'})"
+    on_click="goToPage('meio2_2'); set(escolha, 'martelo')"
   />
       <agent
     id="texto_de_proxima_pagina12"
@@ -41,6 +41,6 @@
     animation="hover-glow"
     y="480"
     x="500"
-    on_click="goToPage('meio2_2'); set(${escolha}, ${'gadanho'})"
+    on_click="goToPage('meio2_2'); set(escolha, 'gadanho')"
   />
 </page>
