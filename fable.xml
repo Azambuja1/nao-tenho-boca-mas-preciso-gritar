@@ -1,5 +1,5 @@
 <fable>
-  <config  font-family="Impact" />
+  <config font-family='Impact' bg_music = 'Hour_Of_Darkness.mp3' />
   <property name = "escolha" default = "nada"/>
   <start/>
   <middle/>
