@@ -36,11 +36,11 @@
   />
       <agent
     id="texto_de_proxima_pagina12"
-    text="Pá"
+    text="Gadanho"
     color="darkred"
     animation="hover-glow"
     y="480"
     x="500"
-    on_click="goToPage('meio2_2'); set(${escolha}, ${'pá'})"
+    on_click="goToPage('meio2_2'); set(${escolha}, ${'gadanho'})"
   />
 </page>
