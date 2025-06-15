@@ -1,4 +1,4 @@
-<page id="porta_2" bg_image="fundo_preto.png" >
+<page id="porta_2" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3" >
 <agent
     id="texto5"
     text="Você se aproxima da porta. Ela levemente com o vento forte que atinge ela, seu cadeado garantindo que a pessoa que esteja dentro da cabana continue presa. "
