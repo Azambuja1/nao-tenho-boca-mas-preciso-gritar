@@ -32,6 +32,6 @@
     animation="hover-glow"
     y="480"
     x="430"
-    on_click="goToPage('bancada2')"
+    on_click="goToPage('bancada_2')"
   />
 </page>
