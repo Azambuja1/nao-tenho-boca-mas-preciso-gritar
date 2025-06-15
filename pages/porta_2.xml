@@ -1,4 +1,4 @@
-<page id="janela_2" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
+<page id="porta_2" bg_image="fundo_preto.png" bg_music="Hour_Of_Darkness.mp3">
 <agent
     id="texto12"
     text="Você se aproxima da janela. A sua visão é tomada novamente pela chuva que rasga a noite com ferocidade. Analisando melhor agora, você está no que parece ser uma pequena clareira, com cerca de 10 metros de raio. A chuva está mais fraca agora, sendo possível distinguir melhor o contorno das Árvores que o cercam"
