@@ -22,8 +22,8 @@
     color="darkred"
     animation="hover-glow"
     y="480"
-    x="center"
-    on_click="goToPage('meio2_2')"
+    x="220"
+    on_click="goToPage('meio2_2'); set(${escolha}, ${'machado'})"
   />
     <agent
     id="texto_de_proxima_pagina11"
@@ -32,6 +32,15 @@
     animation="hover-glow"
     y="480"
     x="center"
-    on_click="goToPage('meio2_2')"
+    on_click="goToPage('meio2_2'); set(${escolha}, ${'martelo'})"
+  />
+      <agent
+    id="texto_de_proxima_pagina12"
+    text=""
+    color="darkred"
+    animation="hover-glow"
+    y="480"
+    x="center"
+    on_click="goToPage('meio2_2'); set(${escolha}, ${'martelo'})"
   />
 </page>
